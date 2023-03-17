@@ -1,7 +1,5 @@
 # learn-shell
 
-
-
-
-####shell scripting 
-###this is a test line
+Shell scripting topics:
+1. Printing
+2. Comments
