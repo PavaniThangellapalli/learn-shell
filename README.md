@@ -5,3 +5,4 @@ Shell scripting topics:
 2. Comments
 3. Variables
 4. Functions
+5. Loops
