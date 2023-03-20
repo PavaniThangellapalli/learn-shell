@@ -5,7 +5,7 @@ echo Second argument = $2 # Second argument
 
 echo Script name = $0 # Script name
 
-echo $*
+echo All arguments = $*
 echo All arguments = $@ # All arguments
 
 echo Number of Arguments = $# # Number of arguments
