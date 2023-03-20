@@ -8,3 +8,6 @@ echo "Today's date is ${DATE}"
 #Arithmetic substitution
 ADD=$((4+5))
 echo "sum of 4+5=${ADD}"
+
+# Accessing variables from shell
+echo x = $x
