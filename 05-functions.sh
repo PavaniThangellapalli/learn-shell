@@ -5,9 +5,9 @@ xyz() {
     echo second arg - $2
     echo All args - $*
     echo No of args - $#
+    a=300
     echo value of a - $a
     b=200
-    a=300
 }
 
 #main program
