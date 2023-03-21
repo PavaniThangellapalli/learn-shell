@@ -7,6 +7,7 @@ xyz() {
     echo No of args - $#
     echo value of a - $a
     b=200
+    a=300
 }
 
 #main program
