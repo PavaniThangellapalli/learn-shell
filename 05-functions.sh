@@ -15,3 +15,13 @@ xyz() {
 a=100
 xyz 123 456
 echo value of b - $b
+
+abc() {
+    echo Hello
+    return 1
+    echo Bye
+}
+
+abc
+echo Exit Status of abc function = $?
+
