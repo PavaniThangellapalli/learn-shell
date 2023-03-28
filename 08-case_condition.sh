@@ -19,3 +19,14 @@ case $name in
         echo No Course available
     ;;
     esac
+    
+    #implementing the same in if condition
+    if [ "${name}" == "DevOps" ]; then 
+        echo Welcome to DevOps training
+        echo Timings are 6 AM
+    elif [ "${name}" == "AWS" ] ; then
+        echo Welcome to AWS training
+        echo Timings are 7 AM
+    else
+        echo No Course available
+    fi
