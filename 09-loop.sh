@@ -7,5 +7,9 @@ while [ $i -gt 0 ]; do
     sleep 1
 done
 
-
 ## Loop based on inputs
+
+for i in 1 2 3 4 5 6 7 8 9 10 11 12 ; do
+    echo $i
+    sleep 1
+done
