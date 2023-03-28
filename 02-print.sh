@@ -17,3 +17,6 @@ echo Hello World
 
 echo -e "\e[36mHello in Red Color\e[0m"
 echo Hello World
+
+#printing multiple lines #\n for new line and \e for color
+echo -e "line1\nline2\nline3"
