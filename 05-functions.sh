@@ -25,3 +25,7 @@ abc() {
 abc
 echo Exit Status of abc function = $?
 
+# We can import functions and variables using “source” command.
+
+source ./source-example.sh
+demo
